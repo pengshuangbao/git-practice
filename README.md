@@ -4,3 +4,4 @@ dfdfdd
 branchtest2
 pulltest
 --no-ff
+--reset test
